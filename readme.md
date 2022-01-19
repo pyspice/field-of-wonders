@@ -4,6 +4,7 @@
 Необходимо в папке client выполнить команды:
 * npm install
 * npx webpack
+
 Затем нужно в папке server выполнить команды:
 * npm install
 * node index.js
